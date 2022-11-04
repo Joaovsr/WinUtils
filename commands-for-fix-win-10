@@ -3,3 +3,5 @@ dism /online /cleanup-image /restorehealth
 sfc /scannow
 
 chkdsk /r /f
+
+Set-ExecutionPolicy RemoteSigned

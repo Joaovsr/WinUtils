@@ -7,3 +7,7 @@ Uso recomendado para técnicos em informática, que fazem diversas instalações
 Rodar scripts do powershell em modo administrador.
 
 Atenção: Se estiver fazendo isso na sua máquina local crie um ponto de restauração primeiro, pois caso não goste de alguma alteração possa voltar atrás. 
+
+Execute esse comando primeiro :
+
+Set-ExecutionPolicy RemoteSigned
