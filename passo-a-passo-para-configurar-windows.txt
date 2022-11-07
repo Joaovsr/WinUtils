@@ -1,0 +1,13 @@
+Entrar com conta local e internet off.
+Remover bloatware softwares.  [Script]
+Remover programas indesejados manualmente antes de ligar internet.
+Instalar programas essenciais(navegador,7zip,vlc...). [Script]
+Configurar programas padrão.
+Configurar windows para performace. [Script]
+Fazer configurações de personalização.
+Atualizar drivers via windows update e outras atualizações de sistema.
+Habilitar Microsoft .net 3.5 em "ativar ou desativar recursos do Windows".
+Instalar DirectX do site oficial Microsoft.
+Ativação windows. (Original)
+Configurar windows update para somente atualizações de segurança. [Script]
+Criar um ponto de restauração.
